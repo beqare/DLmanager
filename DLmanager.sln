@@ -9,7 +9,6 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-		Description = A simple and lightweight WPF application for downloading files from a given URL with progress tracking and cancellation capabilities.
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{801F6D42-8C54-4CFF-BFD8-8A135EA24FB2}.Debug|Any CPU.ActiveCfg = Release|Any CPU
