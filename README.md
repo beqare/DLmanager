@@ -16,7 +16,7 @@ A simple and lightweight WPF application for downloading files from a given URL 
 
 ## Screenshots
 
-![DEMO](https://github.com/beqare/DLmanager/github/screenshot.png)
+![DEMO](https://raw.githubusercontent.com/beqare/DLmanager/refs/heads/master/github/screenshot.png)
 
 ---
 
