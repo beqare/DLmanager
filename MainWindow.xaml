@@ -5,7 +5,8 @@
         Height="250" Width="550"
         Background="#1E1E1E"
         WindowStartupLocation="CenterScreen"
-        ResizeMode="CanMinimize">
+        ResizeMode="CanMinimize"
+        Icon="/icon.png">
 
     <Window.Resources>
         <Style TargetType="TextBox">
